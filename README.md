@@ -1,2 +1,5 @@
 # Ejercicio1-Practica1
-Ejercicio que resuelve de manera iterativa y recursiva el problema de la Torre de Hanoi....
+a) Implementar el algoritmo de resolución del juego matemático de las torres de Hanoi de n
+discos de forma iterativa. Se debe utilizar algunas de las colecciones que provee la imagen
+de Pharo.
+b) Refactorizar el código utilizando ahora un algoritmo recursivo.
